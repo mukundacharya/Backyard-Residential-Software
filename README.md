@@ -1,5 +1,5 @@
 # Residential-Management-System-Using-JavaSwing-and-MySQL
- The Backyard is a Residential Management application aimed to achieve some basic features for residents, tenants and colony administration in one place which will increase efficiency and transparency in all aspects of community management for a colony, flats or gated community. 
+ The Residential Management application aimed to achieve some basic features for residents, tenants and colony administration in one place which will increase efficiency and transparency in all aspects of community management for a colony, flats or gated community. 
 This project includes features such as: 
 1. Bill Payment: Easy payment options of maintenance and utility dues and bills from the apllication.
 2. Facility and Activities: Book and pay for facilities like Swimming Pool, Club House and Gym and participate in many activities.
